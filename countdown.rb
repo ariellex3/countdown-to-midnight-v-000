@@ -8,7 +8,4 @@ def countdown(countdown_output)
 end
 
 def countdown_with_sleep(runtime)
-  while countdown > 0
-    countdown_with_sleep(1)
-  end
 end
